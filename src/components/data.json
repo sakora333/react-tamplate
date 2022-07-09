@@ -1,0 +1,139 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "iconname": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 2,
+            "iconname": "icon fa fa-bolt fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id": 3,
+            "iconname": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile UX",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "imgsrc": "images/Portfolio/portfolio-img1.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 2,
+            "imgsrc": "images/Portfolio/portfolio-img2.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 3,
+            "imgsrc": "images/Portfolio/portfolio-img3.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 4,
+            "imgsrc": "images/Portfolio/portfolio-img4.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 5,
+            "imgsrc": "images/Portfolio/portfolio-img5.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 6,
+            "imgsrc": "images/Portfolio/portfolio-img6.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 7,
+            "imgsrc": "images/Portfolio/portfolio-img7.jpg",
+            "span": "Show Image"
+        },
+        {
+            "id": 8,
+            "imgsrc": "images/Portfolio/portfolio-img8.jpg",
+            "span": "Show Image"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "span": "Name",
+            "litext": "May Kh"
+        },
+        {
+            "id": 2,
+            "span": "Birthday",
+            "litext": "1/8/1993"
+        },
+        {
+            "id": 3,
+            "span": "Address",
+            "litext": "Tartus"
+        },
+        {
+            "id": 4,
+            "span": "Phone",
+            "litext": "22211144455"
+        },
+        {
+            "id": 5,
+            "span": "Email",
+            "litext": "Mei@gmail.com"
+        },
+        {
+            "id": 6,
+            "span": "Website",
+            "litext": "www.gogle.com"
+        }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "skillname": "bootstrap",
+            "percentage": "100%",
+            "class": "sp1"
+        },
+        {
+            "id": 2,
+            "skillname": "CSS",
+            "percentage": "90%",
+            "class": "sp2"
+        },
+        {
+            "id": 3,
+            "skillname": "Photoshop",
+            "percentage": "750%",
+            "class": "sp3"
+        }
+    ],
+    "media": [
+        {
+            "id": 1,
+            "classname": "social face",
+            "mediaicon": "icon fa fa-facebook fa-lg",
+            "action": "Follow Me on",
+            "socialname": "Social facebook"
+        },
+        {
+            "id": 2,
+            "classname": "social twitter",
+            "mediaicon": "icon fa fa-twitter fa-lg",
+            "action": "Tweet Me on",
+            "socialname": "Social twitter"
+        },
+        {
+            "id": 3,
+            "classname": "social pin",
+            "mediaicon": "icon fa fa-pinterest fa-lg",
+            "action": "Pin Me on",
+            "socialname": "Social pinterest"
+        }
+    ]
+}
